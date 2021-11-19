@@ -14,7 +14,15 @@ Tweets are extracted from Tweepy API of Twitter for the following accounts on sp
 
 ## Methods Used
 
-Sentiment Analysis using Vader.
+Sentiment Analysis using Vader. (https://github.com/cjhutto/vaderSentiment#python-demo-and-code-examples) 
+Vader Library provides 4 scores - neu, pos, neg and compound. 
+
+The compound score is computed by summing the valence scores of each word in the lexicon, adjusted according to the rules, and then normalized to be between -1 (most extreme negative) and +1 (most extreme positive). This is the most useful metric if you want a single unidimensional measure of sentiment for a given sentence. Calling it a 'normalized, weighted composite score' is accurate. - 
+
+The sentiment is calculated on compound score - 
+Positive : compound score >= 0.05
+Neutral : (compound score > -0.05) and (compound score < 0.05)
+Negative : compound score <= -0.05
 
 ## Analysis 
 
