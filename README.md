@@ -1,6 +1,6 @@
 # Sports Sentiment Analysis
 
-This project aims to find the sentiment trends across matches from influential twitter accounts. We hypothesize that the most loyal fans of any sports team don't  lose interest in the team and players even after the has a bad season. 
+This project aims to find the sentiment trends across matches from influential twitter fan accounts as well as official team and player accounts. We hypothesize that the Public Relations Teams of the official accounts keep posting positive tweets even when having bad results to maintain a positive image of the club but the fan accounts reflect the actual sentiments about the results of the football club. 
 For our analysis we are analysing fan tweets of Manchester United Football Team. 
 
 ## Table of Contents
