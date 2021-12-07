@@ -25,5 +25,13 @@ Neutral : (compound score > -0.05) and (compound score < 0.05)
 Negative : compound score <= -0.05
 
 ## Analysis 
+Fan Sentiments Trends -- 
+
+<img width="468" alt="Screenshot 2021-12-05 at 12 21 02 AM" src="https://user-images.githubusercontent.com/10363259/144736106-a8b0bd8a-15f0-4394-99fd-2cab56a6a036.png">
+
+Official Accounts Sentiment Trends --
+
+
+<img width="417" alt="Screenshot 2021-12-05 at 12 27 30 AM" src="https://user-images.githubusercontent.com/10363259/144736241-b71569a9-24b3-4ad8-be76-892a612f82ec.png">
 
 ## Further Research
